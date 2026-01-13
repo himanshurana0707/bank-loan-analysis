@@ -53,4 +53,3 @@ Precision, Recall, and F1-score
 
 A comparative analysis is done to identify the best-performing model for predicting loan approval with higher accuracy and reliability.
 
-🛠️ Technologies Used
